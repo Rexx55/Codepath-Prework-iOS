@@ -19,22 +19,40 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFya3Q4ZnRtbHJ6MzlmNml0c2E5OXJya28zdTg0ZHN6bWl3cDU0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k9mtY6UU7jHZDoky7/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+
+Instagram
+ - Switching accounts instantly
+ - Posting stories and posts
+ 
+Youtube
+ - Video previews as you scroll through different videos
+ - Liking and commenting videos
+ 
+Twitch
+ - Live streams with live view count
+ - Live reaction stickers and comments
+ 
+Amazon
+ - Add to cart feature
+ - Leaving reviews on products
+ 
+I would like to build an organization app with to-do lists, calenders, reminders, and clocks. Currently, there are different apps for each of these tasks on ios.
+I would implement all these features in 1 app which would help you be organized. I would also think of ways to integrate these features togther so that you will
+be able to see tasks on the calender and icons on the clock for small daily tasks at the set time.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+- I faced some challenges when I was connecting the UI button to the View Controller by using the assistant. Also, I was not able to make it so that when you press
+  the button, the background color would change. I deleted the code and did the steps again which made it work. Other than that, I was able to build the app easily.
+
 ## License
 
-    Copyright [2023] [name of copyright owner]
+    Copyright [2023] [Sahil Sethi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
